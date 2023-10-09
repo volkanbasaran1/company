@@ -13,7 +13,7 @@
     <div class="container">
         <h2>Proje Hakkında</h2>
         <p>"Modern ve konforlu ofis sitemiz, iş dünyasının ihtiyaçlarına uygun olarak tasarlanmıştır. Profesyonel bir çalışma ortamı sunarken, esneklik ve verimliliği teşvik ediyoruz. İşyerinizi oluştururken size en iyi destek ve hizmeti sunmaya hazırız."</p>
-        <h2>Kullanılan Teknolojiler</h3>
+        <h2>Kullanılan Teknolojiler</h2>
         <ul>
             <li>HTML</li>
              <li>CSS</li>
